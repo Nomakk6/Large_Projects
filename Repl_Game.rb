@@ -1,4 +1,4 @@
-
+#Chris making an edit
 
 def intro
 	puts "Welcome to Mission Impossible!"
@@ -44,7 +44,7 @@ end
 			puts "You entered the wrong door!"
 			puts "Try the other door."
 			part_two
-		end 
+		end
 
 	end
 	def part_three
